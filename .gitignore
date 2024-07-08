@@ -4,6 +4,7 @@ Thumbs.db*
 HELP.md
 dist
 doc
+.npmrc
 
 # Logs
 logs
